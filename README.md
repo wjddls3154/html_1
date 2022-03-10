@@ -54,4 +54,4 @@ Ex) <code> 이 부분이 코드 블록입니다 </code>
 
 - cite : 저작물의 출처를 표기할때 사용(q는 인용구, cite는 인용블록)
 
-Ex) <cite><a href="링크"></a></cite>
+Ex) <cite><a href="wjddls3154@naver.com"></a></cite>
