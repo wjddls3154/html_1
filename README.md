@@ -17,7 +17,7 @@ Created with CodeSandbox
 - br 로 줄 이동, 안 닫아도 됨 
 
 - br 로 줄 이동, 안 닫아도 됨
-- <hr> 쓰면, 구분선 하나 그어짐, 안 닫아도 됨
+- hr 쓰면, 구분선 하나 그어짐, 안 닫아도 됨
 - ctrl + / 하면 여러줄,한줄 주석 설정 및 해제 가능, 빈 줄에 하면 주석을 생성
 
 a (앵커) 태그
@@ -37,13 +37,17 @@ a (앵커) 태그
 
 기타 잘 쓰이는 태그
 - abbr : 약어를 표현할때 사용, 해당 글자 위에 커서 올려두면 abbr title= 에 입력한 내용이 뜬다. 
+
 Ex) <abbr title="HyperText Markup Language">HTML</abbr>
 - kbd : 키보드 키를 나타낼때 사용
+
 Ex) <kbd>Ctrl</kbd>
+
 - pre : 있는 그대로 나타낸다
 Ex) <pre> 띄어쓰기       와   
 줄 바꿈  등이 내가 적은 코딩 그대로 표현된다. </pre>
 - code : 코드 블록(컴퓨터 코드 범위를 설정)
+
 Ex) <code> 이 부분이 코드 블록입니다 </code>
 - cite : 저작물의 출처를 표기할때 사용(q는 인용구, cite는 인용블록)
 
